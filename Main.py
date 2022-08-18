@@ -26,7 +26,7 @@ def merge(d1, d2):
 
 d3 = merge(new_file_1, new_file_2)
 value = d3.values()
-print(value)
+# print(value)
 
 
 header = ['cus_no', 'fname', 'sname', 'age', 'counrty']
