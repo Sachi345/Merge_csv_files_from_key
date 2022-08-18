@@ -1,0 +1,4 @@
+cus_no	fname	sname
+1	thilina	blyz
+2	che	hewa
+3	sachi	saha
