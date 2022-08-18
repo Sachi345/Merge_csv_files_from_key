@@ -1,4 +1,0 @@
-cus_no	fname	sname	age	counrty
-1	thilina	blyz	41	SL
-2	che	hewa	34	AUS
-3	sachi	saha	35	USA
