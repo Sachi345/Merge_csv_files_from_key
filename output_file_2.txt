@@ -1,4 +1,0 @@
-cus_no	age	country
-1	41	SL
-2	34	AUS
-3	35	USA
